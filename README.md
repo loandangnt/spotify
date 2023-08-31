@@ -23,3 +23,5 @@ To enable this type of research at scale, in 2018 we sponsored the RecSys Challe
 In September 2020, we re-released the dataset as an open-ended challenge on AIcrowd.com. The dataset can now be downloaded by registered participants from the Resources page. 
 
 Each playlist in the MPD contains a playlist title, the track list (including track IDs and metadata), and other metadata fields (last edit time, number of playlist edits, and more). All data is anonymized to protect user privacy. Playlists are sampled with some randomization, are manually filtered for playlist quality and to remove offensive content, and have some dithering and fictitious tracks added to them. As such, the dataset is not representative of the true distribution of playlists on the Spotify platform, and must not be interpreted as such in any research or analysis performed on the dataset.
+# Download dataset here: 
+https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge/dataset_files 
